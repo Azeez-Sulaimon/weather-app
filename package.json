@@ -32,5 +32,5 @@
   "devDependencies": {
     "css-loader": "^3.2.0"
   },
-  "proxy": "http://api.openweathermap.org/data/2.5/weather"
+  "proxy": "https://know-your-weather-now.herokuapp.com"
 }

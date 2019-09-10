@@ -65,10 +65,10 @@ class App extends Component {
                <div className="main">
                  <div className="container">
                    <div className="row">
-                     <div className="col-xs-12 col-md-5 title-container">
+                     <div className="col-sm-12 mx-auto col-lg-5 title-container">
                        <Titles />
                      </div>
-                     <div class="col-xs-12 col-md-7 form-container">
+                     <div class="col-sm-12 mx-auto col-lg-7 form-container">
                        <Form getWeather={this.getWeather}/>
                        <Weather 
                        temperature={this.state.temperature}

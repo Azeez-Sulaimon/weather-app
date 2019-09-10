@@ -31,6 +31,6 @@
   },
   "devDependencies": {
     "css-loader": "^3.2.0"
-  },
-  "proxy": "https://know-your-weather-now.herokuapp.com"
+  }
+
 }
